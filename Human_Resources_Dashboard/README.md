@@ -2,7 +2,7 @@
 
 ## Dashboard Page
 
-### Customer Churn Dashboard
+### Human Resources Dashboard
 ![Overview](/Human_Resources_Dashboard/HR_PNG/HR.png?raw=1)
 
 ##  Overview
