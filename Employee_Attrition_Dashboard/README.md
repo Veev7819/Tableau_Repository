@@ -2,8 +2,8 @@
 
 ## Dashboard Page
 
-### Human Resources Dashboard
-![Overview](/Employee_Dashboard/Attrition_PNG/Attrition.png?raw=1)
+### Empployee Attrition Dashboard
+![Overview](/Employee_Attrition_Dashboard/Attrition_PNG/Attrition.png?raw=1)
 
 ##  Overview
 This dashboard analyzes employee attrition patterns to help HR teams understand **who is leaving, from where, and at what stage of employment**.  
